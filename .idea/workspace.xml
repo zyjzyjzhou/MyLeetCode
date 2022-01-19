@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d86dde7-56d3-4342-a93d-260276b1ceb2" name="变更" comment="" />
+    <list default="true" id="4d86dde7-56d3-4342-a93d-260276b1ceb2" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,6 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -33,9 +34,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="2699db83-6e40-45f2-9e8d-3e4cf0178e74" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -100,6 +98,7 @@
       <workItem from="1642580176153" duration="547000" />
       <workItem from="1642580754335" duration="466000" />
       <workItem from="1642581267620" duration="559000" />
+      <workItem from="1642581857739" duration="168000" />
     </task>
     <task id="LOCAL-00001" summary="awds">
       <created>1642580520820</created>
@@ -108,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642580520820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1642581902171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642581902171</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +163,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="awds" />
-    <option name="LAST_COMMIT_MESSAGE" value="awds" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
